@@ -1,0 +1,11 @@
+{
+	"name": "CRUD_Join",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/bittencourtthulio/simpleorm": "^2.02.04"
+	}
+}

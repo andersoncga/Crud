@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/17 15:15:19.000.621,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/07/17 15:18:03.000.995,C:\CRUD_Join\View\Crud.Main.View.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/07/17 15:18:03.000.995,C:\CRUD_Join\View\Crud.Main.View.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2021/07/17 15:18:19.000.457,C:\CRUD_Join\Crud_Join.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/17 15:58:48.000.797,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:00:49.000.654,C:\CRUD_Join\Crud.Helper.Controls.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:21:59.000.268,C:\CRUD_Join\Helper\Crud.Helper.Controls.pas=C:\CRUD_Join\Crud.Helper.Controls.pas</Transaction>
+    <Transaction>2021/07/17 16:35:41.000.731,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:36:23.000.415,C:\CRUD_Join\View\Crud.Base.View.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:36:23.000.415,C:\CRUD_Join\View\Crud.Base.View.dfm=C:\CRUD_Join\Unit1.dfm</Transaction>
+    <Transaction>2021/07/17 16:42:52.000.720,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:43:36.000.916,C:\CRUD_Join\View\Crud.Product.View.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/17 16:43:36.000.916,C:\CRUD_Join\View\Crud.Product.View.dfm=C:\CRUD_Join\Unit1.dfm</Transaction>
+    <Transaction>2021/07/19 13:47:04.000.083,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 13:51:34.000.645,C:\CRUD_Join\Unit1.pas=C:\CRUD_Join\Resources\Crud.Resource.Interfaces.pas</Transaction>
+    <Transaction>2021/07/19 13:52:44.000.490,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 14:24:21.000.398,C:\CRUD_Join\Unit1.pas=C:\CRUD_Join\Resources\Crud.Resource.Conexao.pas</Transaction>
+    <Transaction>2021/07/19 16:08:40.000.366,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 16:11:05.000.121,C:\CRUD_Join\Unit1.pas=C:\CRUD_Join\Model\Entity\Crud.Model.Entity.Categoria.pas</Transaction>
+    <Transaction>2021/07/19 16:24:33.000.512,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 16:30:07.000.997,C:\CRUD_Join\Unit1.pas=C:\CRUD_Join\Model\Entity\Crud.Model.Entity.Produto.pas</Transaction>
+    <Transaction>2021/07/20 11:29:28.220,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 12:32:00.951,C:\CRUD_Join\Services\Crud.Services.Generic.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:01:39.961,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:09:49.548,C:\CRUD_Join\Controller\Crud.Controller.Interfaces.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:18:51.356,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:21:08.761,C:\CRUD_Join\Controller\Crud.Controller.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:24:13.127,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:25:04.125,C:\CRUD_Join\Controller\Crud.Controller.Generic.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:58:22.165,C:\CRUD_Join\Model\Entity\Crud.Model.Entity.Categoria.pas=</Transaction>
+    <Transaction>2021/07/20 13:58:31.182,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 13:59:34.011,C:\CRUD_Join\Model\Entity\Crud.Model.Entity.Categoria.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 14:36:04.777,=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 14:36:49.247,C:\CRUD_Join\View\Crud.Categoria.View.pas=C:\CRUD_Join\Unit1.pas</Transaction>
+    <Transaction>2021/07/20 14:36:49.247,C:\CRUD_Join\View\Crud.Categoria.View.dfm=C:\CRUD_Join\Unit1.dfm</Transaction>
+    <Transaction>2021/07/20 17:45:06.528,=C:\CRUD_Join\View\Crud.Consultat.View.pas</Transaction>
+  </Transactions>
+</BorlandProject>
